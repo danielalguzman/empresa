@@ -402,9 +402,7 @@
 					<ul class="nav nav-sidebar" data-nav-type="accordion">
 
 						<!-- Main -->
-						<li class="nav-item-header">
-							<div class="text-uppercase font-size-xs line-height-xs"><center>PRINCIPAL</center></div> <i class="icon-menu" title="Main"></i>
-						</li>
+						<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs"><center>PRINCIPAL</center></div> <i class="icon-menu" title="Main"></i></li>
 						
 						<li class="nav-item">
 							<a href="index.php" class="nav-link">
@@ -415,10 +413,7 @@
 								</span>
 							</a>
 						</li>
-
-						<li class="nav-item-header">
-							<div class="text-uppercase font-size-xs line-height-xs"><center>INFORMACIÓN INTERNA</center></div> <i class="icon-menu" title="Forms"></i>
-						</li>
+					<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs"><center>INFORMACIÓN INTERNA</center></div> <i class="icon-menu" title="Forms"></i></li>
 
 						<li class="nav-item nav-item-submenu">	
 							<a href="#" class="nav-link"><i class="icon-office"></i> <span>EMPRESAS</span></a>
@@ -468,17 +463,13 @@
 						<li class="nav-item-header">
 				   	  		<div class="text-uppercase font-size-xs line-height-xs"><center>APARTADOS PARA ALUMNOS</center></div> <i class="icon-menu" title="Forms"></i>
 						</li>
-
 			   			<li class="nav-item nav-item-submenu">	
 			    			<a href="#" class="nav-link"><i class="icon-person"></i> <span>ALUMNOS</span></a>
 							<ul class="nav nav-group-sub" data-submenu-title="Basic tables">							
                           		<li class="nav-item"> <a href="form_alumno.php" class="nav-link">FORMULARIO PARA ALUMNOS</a></li>
 			
-									<li class="nav-item">
-										<a href="datatable_alumno.php" class="nav-link"><CENTER>ESPECIFICACIONES DE LOS ALUMNOS</CENTER></a>
-									</li>
+									<li class="nav-item"><a href="datatable_alumno.php" class="nav-link"><CENTER>ESPECIFICACIONES DE LOS ALUMNOS</CENTER></a></li>			
 
-								</li>	
 							</ul>
 						</li>
 
@@ -492,10 +483,7 @@
 						</li>
 
 						<li class="nav-item nav-item-submenu">	
-		    				<a href="#" class="nav-link">
-		    					<i class="icon-bus"></i> <span>RUTAS</span>
-		    				</a>
-		    				
+		    				<a href="#" class="nav-link"><i class="icon-bus"></i> <span>RUTAS</span></a>
 		    				<ul class="nav nav-group-sub" data-submenu-title="Basic tables">
                            		<li class="nav-item"> <a href="form_pagos.php" class="nav-link">FORMULARIO DE PAGO</a></li>						
 							</ul>
